@@ -1,4 +1,4 @@
-##Retrieval-Augmented Generation (RAG) Demo Project
+## Retrieval-Augmented Generation (RAG) Demo Project
 
 This project demonstrates a simple Retrieval-Augmented Generation (RAG) system using LangChain, ChromaDB, OpenAI API, and Streamlit.
 
